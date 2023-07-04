@@ -1,4 +1,4 @@
-let direccionCasa: string = "san geronimo";
+export let direccionCasa: string = "san geronimo";
 let numeroCalle: number = 681;
 
 // console.log("cual es la direccion? es", direccionCasa);
